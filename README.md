@@ -1,19 +1,4 @@
 
-<!--
-**Chu29/Chu29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi there 👋 I'm Chu🤓
 
 <div align="center">
@@ -26,37 +11,55 @@ Here are some ideas to get you started:
   <a href="https://x.com/unku_chu"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
 </div>
 
----
+## About Me 👋
 
-## About 😄
-Hi, I am Chu, a dedicated Computer Hardware Maintenance Technician with a deep-seated passion for the evolving world of Smart Home Security. Over the years I have harnessed my skills in troubleshooting, repairing, and maintaining hardware systems to ensure performance and reliability.
+I'm **Chu**, a professional with a unique blend of expertise: a dedicated **Computer Hardware Maintenance Technician** and a passionate **Front-End Developer**.
 
-I am equally a Front End Developer, sharpening my skills in front-end technologies
+* **🛠️ Hardware Focus:** I specialize in troubleshooting, repairing, and maintaining complex hardware systems, ensuring optimal performance and reliability. I have a deep-seated interest in the evolving world of **Smart Home Security** and related embedded systems.
+* **💻 Software Focus:** I am actively sharpening my skills as a developer, focusing on modern front-end technologies to build intuitive and engaging user interfaces.
+
+I thrive at the intersection of physical systems and digital experiences, bringing a comprehensive approach to technology.
 
 ## Tech Stack 🛠️
 
-Languages
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-
-Frontend
-  - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-  - ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-Backend
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-- ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-
-Databases & Storage
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-
-Dev Tools & Platforms
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-- ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-- ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
-
-Embedded & Hardware
-- ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
-
+<div align="left">
+  
+### Languages
+  <img src="https://devicons.railway.com/i/javascript.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://devicons.railway.com/i/typescript.svg" height="40" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://devicons.railway.com/i/java.svg" height="40" alt="Java" />
+  <img width="12" />
+  <img src="https://devicons.railway.com/i/python.svg" height="40" alt="Python" />
+  
+### Frontend
+  <img src="https://devicons.railway.com/i/react.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://devicons.railway.com/i/nextjs-dark.svg" height="40" alt="Next.js" />
+  <img width="12" />
+  <img src="https://devicons.railway.com/i/html5.svg" height="40" alt="HTML5" />
+  <img src="https://devicons.railway.com/i/css3.svg" height="40" alt="CSS" />
+  <img src="https://devicons.railway.com/i/javascript.svg" height="40" alt="JavaScript" />
+  <img src="https://devicons.railway.com/i/vitejs.svg" height="40" alt="Vite" />
+  
+### Backend
+  <img src="https://devicons.railway.com/i/nodejs.svg" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://devicons.railway.com/i/express.svg" height="40" alt="Express" />
+  
+### Databases & Storage
+  <img src="https://devicons.railway.com/i/mongodb.svg" height="40" alt="MongoDB" />
+  
+### Dev Tools & Platforms
+  <img src="https://devicons.railway.com/i/git.svg" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://devicons.railway.com/i/vscode.svg" height="40" alt="VS Code" />
+  <img width="12" />
+  <img src="https://devicons.railway.com/i/github.svg" height="40" alt="GitHub Actions" />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" height="40" alt="Vercel" />
+  
+### Embedded & Hardware
+  <img src="https://devicons.railway.com/i/arduino.svg" height="40" alt="Arduino" />
+</div>
