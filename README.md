@@ -1,7 +1,7 @@
 # Hey there, I'm Chu 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400" alt="coding animation"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="coding animation"/>
 </div>
 
 <div align="center">
@@ -58,6 +58,7 @@ const chu = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chu29&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 </div>
+
 ## 🎯 Current Focus
 
 - 🔨 Building modern, responsive web applications
