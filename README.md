@@ -54,13 +54,10 @@ const chu = {
 ### Hardware & Embedded
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-## 📊 GitHub Stats
-
+## 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chu29&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chu29&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chu29&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 </div>
-
 ## 🎯 Current Focus
 
 - 🔨 Building modern, responsive web applications
