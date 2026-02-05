@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Hardware Technician** turned **Frontend Developer**, bridging the gap between physical systems and digital experiences.
+I'm a **Senior Hardware Technician** and **Software Engineer**, bridging the gap between physical systems and digital experiences.
 
 ```javascript
 const chu = {
