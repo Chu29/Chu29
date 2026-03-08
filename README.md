@@ -4,6 +4,7 @@
 
 **Hardware Technician · Software Engineer · Cameroon**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chu-abuemkeze)
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=flat-square&logo=x&logoColor=white)](https://x.com/@unku_chu)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Chu29)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://medium.com/@chu-amk)
