@@ -1,9 +1,9 @@
 <div align="center">
 
-# MUEGHE ABUEMKEZE CHU - *Computer Engineer*
+# MUEGHE ABUEMKEZE CHU 
 
-### Full-Stack Software Engineer · Hardware Technician
-#### *Where hardware meets software ⚡*
+### Full-Stack Software Engineer
+
 
 🌍 Yaoundé, Cameroon &nbsp;·&nbsp; 🕐 UTC +01:00
 
@@ -12,7 +12,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Chu29)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://medium.com/@chu-amk)
 
-**🟢 Open to remote opportunities & startup collaborations**
+
 
 </div>
 
@@ -23,6 +23,10 @@
 I'm a software engineer and hardware technician based in Cameroon, building across the full stack from bare-metal systems to deployed web applications. I enjoy solving real-world problems through clean code, thoughtful architecture, and systems that actually work.
 
 Currently training at **REBASE CODE CAMP**, sharpening my skills in full-stack development and modern engineering practices.
+
+#### ⚡ Fun Fact
+
+I started in hardware and IT support before moving into software, so I understand systems from the ground up. Whether it's diagnosing a network issue, setting up a machine, or building a web app, I'm not intimidated by the boundary between code and physical infrastructure.
 
 ```typescript
 const chu = {
@@ -115,9 +119,7 @@ A RESTful API built with Node.js and Express for managing appointment bookings a
 
 ---
 
-## ⚡ Fun Fact
 
-I started in hardware and IT support before moving into software, so I understand systems from the ground up. Whether it's diagnosing a network issue, setting up a machine, or building a web app, I'm not intimidated by the boundary between code and physical infrastructure.
 
 ---
 <div align="center">
@@ -126,3 +128,5 @@ I started in hardware and IT support before moving into software, so I understan
 *If you're building something meaningful, let's talk.*
 
 </div>
+
+---
