@@ -1,6 +1,6 @@
 <div align="center">
 
-# MUEGHE ABUEMKEZE CHU
+# MUEGHE ABUEMKEZE CHU - *Computer Engineer*
 
 ### Full-Stack Software Engineer · Hardware Technician
 #### *Where hardware meets software ⚡*
@@ -92,31 +92,17 @@ const chu = {
 
 ## 🚀 Featured Projects
 
-### [📬 Yonder Mail](https://github.com/Chu29/yonder-mail)
-An app that lets you write letters to your future self. Built with React, Vite, and TailwindCSS, featuring state management with Zustand and client-side routing with React Router.  
-`React` `Vite` `TailwindCSS` `Zustand` <br/>
-[Live Demo →](https://yonder-mail.vercel.app/)
+### [Tasky](https://github.com/Chu29/tasky)
+A task management application built with NextJS and Firebase for auth
+`Nextjs` `Vite` `Tailwind CSS` `Firebase` `MongoDB` <br/>
+[Live Demo →](https://tasky-chu.vercel.app/)
 
 ---
 
-### [📅 Appointment Booking API](https://appointment-booking-api-xxb5.onrender.com/)
+### [Appointment Booking API](https://appointment-booking-api-xxb5.onrender.com/)
 A RESTful API built with Node.js and Express for managing appointment bookings and scheduling workflows end-to-end.  
 `Node.js` `Express` `REST API`  
 [Live Demo →](https://appointment-booking-api-xxb5.onrender.com/)
-
----
-
-### [💱 Currency Exchange Wallet](https://currency-exchange-wallet.vercel.app/)
-A JavaScript-based web application for managing multi-currency transactions and real-time exchange rate conversions.  
-`React` `JavaScript` `Vercel`  
-[Live Demo →](https://currency-exchange-wallet.vercel.app/)
-
----
-
-### [🧠 Brain Blitz](https://chu-react-quiz-app.vercel.app/)
-An interactive trivia quiz app built with ReactJS, fast, fun, and fully client-side.  
-`React` `JavaScript`  
-[Live Demo →](https://chu-react-quiz-app.vercel.app/)
 
 ---
 
@@ -131,7 +117,7 @@ An interactive trivia quiz app built with ReactJS, fast, fun, and fully client-s
 
 ## ⚡ Fun Fact
 
-I started in hardware and IT support before moving into software, so I understand systems from the ground up. Whether it's diagnosing a network issue, setting up a machine, or building a web app, I'm not intimidated by where code ends and physical infrastructure begins.
+I started in hardware and IT support before moving into software, so I understand systems from the ground up. Whether it's diagnosing a network issue, setting up a machine, or building a web app, I'm not intimidated by the boundary between code and physical infrastructure.
 
 ---
 <div align="center">
