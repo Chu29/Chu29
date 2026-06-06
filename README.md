@@ -86,7 +86,9 @@ const chu = {
 </td>
 <td valign="center" width="45%">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Chu29&theme=tokyonight&hide_border=true)
+  ![Stats](https://chu-readme-stats.vercel.app/api?username=Chu29&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Chu29&theme=tokyonight&hide_border=true)
+  ![Top Languages](https://chu-readme-stats.vercel.app/api/top-langs/?username=Chu29&theme=tokyonight&hide_border=true&layout=compact)
 
 </td>
 </tr>
